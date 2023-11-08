@@ -83,6 +83,7 @@ body {
   margin-top: -6rem;
   padding-top: 8rem;
   padding-bottom: 5rem;
+  min-height: 100vh;
 }
 
 .home h2,
